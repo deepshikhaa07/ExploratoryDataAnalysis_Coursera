@@ -1,4 +1,5 @@
-# Exploratory Data Analysis Quiz 1 (JHU) Coursera
+# Exploratory Data Analysis Coursera
+# Quiz - 1
 
 Question 1
 ----------
